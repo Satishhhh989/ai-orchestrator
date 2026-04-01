@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+logs/
+data/
+transfer/
+screenshot.png
+task_done.flag
+agent_payload.py
+cron_*.py
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
