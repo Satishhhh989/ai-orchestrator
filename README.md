@@ -95,7 +95,7 @@ If you don't have Python installed, follow these steps:
 ### 1.2 Run the Installer
 
 1. Open the downloaded `.exe` file
-2. **⚠️ IMPORTANT**: At the very first screen, check the box that says **"Add python.exe to PATH"** — this is critical
+2. ** IMPORTANT**: At the very first screen, check the box that says **"Add python.exe to PATH"** — this is critical
 3. Click **"Install Now"** (recommended) or choose "Customize installation" if you want to pick a specific directory
 4. Wait for the installation to complete
 5. Click **"Close"** when done
@@ -534,7 +534,7 @@ ai_workflow_orchestrator/
 
 ## Security
 
-> **⚠️ WARNING**: This system executes AI-generated code with full system access. It has root-level privileges on your Windows machine.
+> ** WARNING**: This system executes AI-generated code with full system access. It has root-level privileges on your Windows machine.
 
 - **Only the configured `USER_ID` can interact with the bot** — all other users are silently blocked and logged
 - **Use only with a private bot** — do not add the bot to public groups
